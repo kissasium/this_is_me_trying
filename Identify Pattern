@@ -1,0 +1,57 @@
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
+
+DSA Patterns That Matter:
+1. Substring problem patterns - Search, match, and compare subparts of strings
+ - https://lnkd.in/giASrwds
+
+2. Sliding window patterns - Efficiently solve range-based problems
+ - https://lnkd.in/gjatQ5pK
+
+3. Two pointer patterns - Minimize space by using opposite-end scanning
+ - https://lnkd.in/gBfWgHYe
+
+4. Backtracking patterns - Explore all possibilities (used in puzzles, paths)
+ - https://lnkd.in/g9csxVa4
+
+5. Dynamic Programming patterns - Break problems into subproblems + memorize
+ - https://lnkd.in/gbpRU46g
+
+6. Binary search patterns - Use search space logic beyond arrays
+ - https://lnkd.in/gKEm_qUK
+
+7. Tree patterns - Binary Trees, BSTs, traversals, depth
+ - https://lnkd.in/gKja_D5H
+
+8. Graph patterns - BFS, DFS, shortest path, cycles
+ - https://lnkd.in/gKE6w7Jb
+
+9. Monotonic patterns - Solve problems with increasing/decreasing constraints
+ - https://lnkd.in/gdYahWVN
+
+10. Bit manipulation patterns - Optimize using binary tricks
+ - https://lnkd.in/gmMMST5J
+
+11. String question patterns - Custom operations, encoding, decoding
+ - https://lnkd.in/gkNvEi8j
+
+12. DFS and BFS patterns - Used in grids, islands, shortest path problems
+ - https://lnkd.in/gPgpsgaQ
+
+13. Fourteen Coding interview patterns - Combo of logic + optimization
+ - https://lnkd.in/gMZJVkFf
+
+Consistency is the key!
+
+Best Places to Practice Daily:
+Platforms:
+LeetCode
+NeetCode
+
+YouTube:
+Aditya Verma (YouTube)
+PepCoding
+Codebix
+
+
+-- linkedin post by Akash Kumar
